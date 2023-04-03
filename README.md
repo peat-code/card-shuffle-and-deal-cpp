@@ -13,4 +13,4 @@ A bool function moreCards that returns true if more cards are present.
 The shuffle function iterates through the entire deck and for each card randomly selects card to swap with.
 
 ### Random number generator
-The random number generated using mt19937. 
+The random number is generated using mt19937. 
